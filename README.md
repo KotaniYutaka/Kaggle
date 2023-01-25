@@ -1,1 +1,1 @@
-# Kaggle OTTO – Multi-Objective Recommender System
+# Kaggle: OTTO – Multi-Objective Recommender System
