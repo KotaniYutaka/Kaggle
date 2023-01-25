@@ -1,3 +1,4 @@
-# Kaggle: OTTO – Multi-Objective Recommender System
-このコンペティションのゴールは、過去のイベントに基づいてeコマースのクリック、カートへの追加、注文を予測することです
-[このコンペのリンク](https://www.kaggle.com/competitions/otto-recommender-system/overview)
+# XGBを用いたKaggleコンペへの取組
+##コンペ概要
+ユーザーセッションの過去のイベントに基づいてeコマースのクリック、カートへの追加、注文の予測を行う
+[OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
