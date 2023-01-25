@@ -4,3 +4,4 @@
 [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
 
 ## 手順
+### 1.訓練用データの作成
