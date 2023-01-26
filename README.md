@@ -2,7 +2,7 @@
 
 
 ## コンペ概要
-ユーザーセッションの過去のイベントに基づいて将クリック、カートへの追加、注文を行う品物の予測を行う
+ユーザーセッションの過去のイベントに基づいて将来クリック、カートへの追加、注文を行う品物の予測を行う
 [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
 
 ## 手順(clickに対してのみ)
