@@ -21,6 +21,7 @@
 
 
 ## 参考文献等
+今回の取組は，Discussionに投稿された[How To Build a GBT Ranker Model](https://www.kaggle.com/competitions/otto-recommender-system/discussion/370210)を参考とした．
 ### ノートブック
 [Candidate ReRank Model - [LB 0.575]](https://www.kaggle.com/code/cdeotte/candidate-rerank-model-lb-0-575) created by [CHRIS DEOTTE](https://www.kaggle.com/cdeotte)
 ### データセット
@@ -28,5 +29,3 @@
 
 [OTTO train and validation (extracted from train)](https://www.kaggle.com/datasets/radek1/otto-train-and-test-data-for-local-validation) created by [RADEK OSMULSKI](https://www.kaggle.com/radek1)
 
-
-なお今回の取組は，Discussionに投稿された[How To Build a GBT Ranker Model](https://www.kaggle.com/competitions/otto-recommender-system/discussion/370210)を参考とした．
