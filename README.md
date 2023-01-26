@@ -1,4 +1,6 @@
 # XGBを用いたKaggleコンペへの取組
+
+
 ## コンペ概要
 ユーザーセッションの過去のイベントに基づいて将来のeコマースのクリック、カートへの追加、注文の予測を行う
 [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
@@ -16,3 +18,12 @@
 
 ### 4.提出用データの作成
 [xgb-click-test](https://github.com/yutakakunn/Kaggle/blob/master/xgb-click-test.ipynb)において，手順2で作成したテスト用データと手順3で作成したモデルを用いて，将来最もclickする可能性の高い上位20個の品物を1ユーザーごとに選出．
+
+
+## 参考文献等
+### Notebook
+[Candidate ReRank Model - [LB 0.575]](https://www.kaggle.com/code/cdeotte/candidate-rerank-model-lb-0-575) created by [CHRIS DEOTTE](https://www.kaggle.com/cdeotte)
+### Dataset
+[OTTO Chunk Data in Parquet Format](https://www.kaggle.com/datasets/columbia2131/otto-chunk-data-inparquet-format) created by [COLUM2131](https://www.kaggle.com/datasets/columbia2131/otto-chunk-data-inparquet-format)
+
+[OTTO train and validation (extracted from train)](https://www.kaggle.com/datasets/radek1/otto-train-and-test-data-for-local-validation) created by [RADEK OSMULSKI](https://www.kaggle.com/radek1)
