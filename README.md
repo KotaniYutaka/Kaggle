@@ -9,7 +9,7 @@
 
  2.[val-click-candidates-features](https://github.com/yutakakunn/Kaggle/blob/master/val-click-candidates-features.ipynb)において，前ステップで作成した結果に特徴量を加え，実際にclickされたかどうかといった正解データを与える．
 ### 2.テスト用データの作成
-[test-100-candidates[(https://github.com/yutakakunn/Kaggle/blob/master/test-100-candidates.ipynb)において訓練用データを作成した時と同様に作成．しかし，1ユーザーあたり100個の候補を作成（150個だとメモリ不足となるため）
+[test-100-candidates](https://github.com/yutakakunn/Kaggle/blob/master/test-100-candidates.ipynb)において訓練用データを作成した時と同様に作成．しかし，1ユーザーあたり100個の候補を作成（150個だとメモリ不足となるため）
 
 ### 3.XGBのトレーニング
 [xgb-click-train](https://github.com/yutakakunn/Kaggle/blob/master/xgb-click-train.ipynb)において，作成した訓練用データを用いてトレーニングを行う．
