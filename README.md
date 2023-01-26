@@ -21,9 +21,8 @@
 
 
 ## 参考文献等
-### Notebook
+### ノートブック
 [Candidate ReRank Model - [LB 0.575]](https://www.kaggle.com/code/cdeotte/candidate-rerank-model-lb-0-575) created by [CHRIS DEOTTE](https://www.kaggle.com/cdeotte)
-### Dataset
+### データセット
 [OTTO Chunk Data in Parquet Format](https://www.kaggle.com/datasets/columbia2131/otto-chunk-data-inparquet-format) created by [COLUM2131](https://www.kaggle.com/datasets/columbia2131/otto-chunk-data-inparquet-format)
-
 [OTTO train and validation (extracted from train)](https://www.kaggle.com/datasets/radek1/otto-train-and-test-data-for-local-validation) created by [RADEK OSMULSKI](https://www.kaggle.com/radek1)
