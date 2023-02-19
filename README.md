@@ -1,2 +1,2 @@
 # Kaggle
-masterに記載
+masterブランチに記載
